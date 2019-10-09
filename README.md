@@ -13,7 +13,7 @@ Download and extract the .7z file. You might need to install an archive utlity c
 
 ## Downloading
 Mirrors: 
-  - magnet:?xt=urn:btih:1179b7444aef32ac8fc7b1fa23f2a33c834663c6&dn=gamersriseup
+  - magnet:?xt=urn:btih:ce63d9f7e08485871b23b09cf6911a893b2d9621&dn=GamersRiseUp.7z
   - https://archive.org/download/gamersriseup/GamersRiseUp.7z
   - This github repo
 
